@@ -58,7 +58,7 @@ cd library-api
 mvn spring-boot:run
 ```
 - A aplicação estará disponível em ```http://localhost:8080```
-- Endpoints ```GET``` disponíveis: ```/books```.
+- Endpoints ```GET``` disponíveis: ```/book```.
 
 ### Observação
 - Este projeto foi criado para auxiliar no ensino de docker para alunos de **Ciência da Computação** e **Tecnologia da Informação** da **UFRN** na **Escola de Verão** do **PET-CC** de 2025.
